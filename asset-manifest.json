@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-contact-book/static/css/main.27f9dbee.chunk.css",
+    "main.js": "/react-redux-contact-book/static/js/main.98005fa0.chunk.js",
+    "main.js.map": "/react-redux-contact-book/static/js/main.98005fa0.chunk.js.map",
+    "runtime-main.js": "/react-redux-contact-book/static/js/runtime-main.a2b5d4bb.js",
+    "runtime-main.js.map": "/react-redux-contact-book/static/js/runtime-main.a2b5d4bb.js.map",
+    "static/js/2.85e35da6.chunk.js": "/react-redux-contact-book/static/js/2.85e35da6.chunk.js",
+    "static/js/2.85e35da6.chunk.js.map": "/react-redux-contact-book/static/js/2.85e35da6.chunk.js.map",
+    "index.html": "/react-redux-contact-book/index.html",
+    "precache-manifest.70bc4d8fba554ded1b454acbfe616b7d.js": "/react-redux-contact-book/precache-manifest.70bc4d8fba554ded1b454acbfe616b7d.js",
+    "service-worker.js": "/react-redux-contact-book/service-worker.js",
+    "static/css/main.27f9dbee.chunk.css.map": "/react-redux-contact-book/static/css/main.27f9dbee.chunk.css.map",
+    "static/js/2.85e35da6.chunk.js.LICENSE.txt": "/react-redux-contact-book/static/js/2.85e35da6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2b5d4bb.js",
+    "static/js/2.85e35da6.chunk.js",
+    "static/css/main.27f9dbee.chunk.css",
+    "static/js/main.98005fa0.chunk.js"
+  ]
+}
